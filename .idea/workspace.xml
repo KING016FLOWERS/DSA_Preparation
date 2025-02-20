@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="2nd Program Created">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LargestElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LargestTwoNumbersInArray.java" afterDir="false" />
+    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="3rd Program Created">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SecondLargestAndSmallestElementInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +49,7 @@
     "Application.LargestElementInArray.executor": "Run",
     "Application.LargestTwoNumbersInArray.executor": "Run",
     "Application.NumberOfElementsInArray.executor": "Run",
+    "Application.SecondLargestAndSmallestElementInArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -89,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740047764844</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd Program Created">
+      <option name="closed" value="true" />
+      <created>1740049961100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740049961115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3rd Program Created">
+      <option name="closed" value="true" />
+      <created>1740049992672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740049992672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Program Created" />
     <MESSAGE value="2nd Program Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Program Created" />
+    <MESSAGE value="3rd Program Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd Program Created" />
   </component>
 </project>
