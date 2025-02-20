@@ -22,6 +22,7 @@ class LargestTwoNumbersInArray{
             System.out.print("Enter the Element:");
             a[i] = sc.nextInt();
         }
+
         System.out.println(Arrays.toString(a));
 
         int first=a[0];
