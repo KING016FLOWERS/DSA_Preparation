@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="5th Program Created">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MinDistanceBetweenArrayElements.java" afterDir="false" />
+    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="6th Program Created">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxDifferenceBetweenTwoElementsInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -47,20 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LargestElementInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestTwoNumbersInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinDistanceBetweenArrayElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextGreaterElementInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfElementsInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargestAndSmallestElementInArray.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Code With FlowerKing/DSA_Preparation/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LargestElementInArray.executor": "Run",
+    "Application.LargestTwoNumbersInArray.executor": "Run",
+    "Application.MaxDifferenceBetweenTwoElementsInArray.executor": "Run",
+    "Application.MinDistanceBetweenArrayElements.executor": "Run",
+    "Application.NextGreaterElementInArray.executor": "Run",
+    "Application.NumberOfElementsInArray.executor": "Run",
+    "Application.SecondLargestAndSmallestElementInArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Code With FlowerKing/DSA_Preparation/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="QodanaHighlightedReportService">
     <option name="localRunNotPublishedPersistedInfo">
       <LocalReportPersistedInfo>
@@ -143,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740053226153</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6th Program Created">
+      <option name="closed" value="true" />
+      <created>1740128778594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740128778594</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +172,7 @@
     <MESSAGE value="3rd Program Created" />
     <MESSAGE value="4th Program Created" />
     <MESSAGE value="5th Program Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th Program Created" />
+    <MESSAGE value="6th Program Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th Program Created" />
   </component>
 </project>
