@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="6th Program Created">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxDifferenceBetweenTwoElementsInArray.java" afterDir="false" />
+    <list default="true" id="b973c309-0de1-4e25-a951-bbb1994ed805" name="Changes" comment="7th Program Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +48,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchRecursion.executor": "Run",
     "Application.LargestElementInArray.executor": "Run",
     "Application.LargestTwoNumbersInArray.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinearSearchRecursion.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LinkedListMain.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MaxDifferenceBetweenTwoElementsInArray.executor": "Run",
     "Application.MinDistanceBetweenArrayElements.executor": "Run",
     "Application.NextGreaterElementInArray.executor": "Run",
@@ -59,25 +65,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/Code With FlowerKing/DSA_Preparation/src/Main.java"
+    "onboarding.tips.debug.path": "D:/Code With FlowerKing/DSA_Preparation/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\poova\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="8c5431af-fe20-430f-af45-f28b1df7e7ec" />
-        <option name="reportName" value="DSA_Preparation/qodana/2025-02-21" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\poova\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="8c5431af-fe20-430f-af45-f28b1df7e7ec" reportId="DSA_Preparation/qodana/2025-02-21" />
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code With FlowerKing\DSA_Preparation\src\Tutorial" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -152,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740128778594</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="7th Program Created">
+      <option name="closed" value="true" />
+      <created>1740131234199</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740131234199</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +184,18 @@
     <MESSAGE value="4th Program Created" />
     <MESSAGE value="5th Program Created" />
     <MESSAGE value="6th Program Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="6th Program Created" />
+    <MESSAGE value="7th Program Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th Program Created" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tutorial/LinkedListMain.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
